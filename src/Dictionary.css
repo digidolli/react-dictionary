@@ -1,6 +1,7 @@
 .Dictionary {
-  padding: 50px;
-  margin: 50px;
+  padding: 7px;
+  margin: 7px auto;
+  max-width: 960px;
 }
 .Dictionary section {
   background-color: #f38375;
