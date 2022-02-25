@@ -2,3 +2,24 @@
   padding: 50px;
   margin: 50px;
 }
+.Dictionary section {
+  background-color: #f38375;
+  padding: 30px;
+  border-radius: 35px;
+  margin: 15px;
+}
+.Dictionary input {
+  width: 100%;
+  padding: 6px 8px;
+  border-radius: 10px;
+  border: solid #f7a399;
+  color: #f7a399;
+}
+.Dictionary .hint {
+  font-size: 11px;
+  margin-top: 5px;
+}
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: bold;
+}
