@@ -12,7 +12,7 @@ export default function App() {
         <Dictionary />
       </main>
       <footer>
-        Coded by digidolli
+        Coded by <a href="instagram.com/digidolli"> digidolli</a>, open-sourced on <a href="https://github.com/digidolli/react-dictionary">GitHub</a>
       </footer>
       </div>
     </div>

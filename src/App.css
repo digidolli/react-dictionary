@@ -1,6 +1,10 @@
 .App {
   color: white;
 }
+.App footer {
+  text-align: center;
+  margin-bottom: 30px;
+}
 
 body {
   background-color: #fbc3bc;
